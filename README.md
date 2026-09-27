@@ -70,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
