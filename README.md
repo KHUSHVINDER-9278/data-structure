@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0344-reverse-string) |
 ## Divide and Conquer
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -103,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
