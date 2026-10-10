@@ -12,7 +12,7 @@ class Solution {
     //middle of list
      ListNode* midList(ListNode* head){
         ListNode* first=head;
-        ListNode* sec=head->next;
+        ListNode* sec=head;
         while(sec!=NULL&& sec->next!=NULL){
             sec=sec->next->next;
             first=first->next;
@@ -43,13 +43,13 @@ public:
     ListNode* middle=midList(head);
 
     //reverse call
-    ListNode* temp=middle->next;
-    middle->next=rev(temp);
+    ListNode* temp=middle;
+    middle=rev(temp);
 
     //check equality
 
     ListNode* temp1=head;
-    ListNode* temp2=middle->next;
+    ListNode* temp2=middle;
     while(temp2!=NULL){
         if(temp1->val!=temp2->val){
             return false;
