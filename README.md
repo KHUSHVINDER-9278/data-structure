@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0704-binary-search) |
 ## Hash Table
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0704-binary-search) |
 ## Interactive
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
@@ -112,9 +115,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
