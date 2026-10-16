@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
