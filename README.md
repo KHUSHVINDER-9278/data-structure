@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
