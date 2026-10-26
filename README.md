@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0141-linked-list-cycle) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0217-contains-duplicate) |
@@ -153,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KHUSHVINDER-9278/data-structure/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
